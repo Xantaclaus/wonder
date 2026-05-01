@@ -26,9 +26,9 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 ---
 
-## What is Baileys Asep?
+## What is Baileys Tenka?
 
-**WhatsApp Baileys Asep** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons 2014 all in a lightweight and modular package.
+**WhatsApp Baileys Tenka** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons 2014 all in a lightweight and modular package.
 
 Actively maintained with continuous improvements to **pairing stability**, **session management**, and **WhatsApp multi-device compatibility**.
 
