@@ -15,12 +15,12 @@
   <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" />
 </p>
 
-**Open-source WhatsApp automation library \u2014 no browser required.**  
+**Open-source WhatsApp automation library 2014 no browser required.**  
 Built on WebSocket for speed, stability, and full multi-device support.
 
 <br/>
 
-[Installation](#getting-started) &nbsp;\u2022&nbsp; [Documentation](#sendmessage-documentation) &nbsp;\u2022&nbsp; [Features](#main-features) &nbsp;\u2022&nbsp; [Telegram](https://t.me/asepisheree)
+[Installation](#getting-started) &nbsp;2022&nbsp; [Documentation](#sendmessage-documentation) &nbsp;2022&nbsp; [Features](#main-features) &nbsp;2022&nbsp; [Telegram](https://t.me/asepisheree)
 
 </div>
 
@@ -28,7 +28,7 @@ Built on WebSocket for speed, stability, and full multi-device support.
 
 ## What is Baileys Asep?
 
-**WhatsApp Baileys Asep** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons \u2014 all in a lightweight and modular package.
+**WhatsApp Baileys Asep** is a powerful, open-source library for developers who need reliable WhatsApp automation without the overhead of a browser. Powered by **WebSocket technology**, it supports message management, group administration, interactive messages, and action buttons 2014 all in a lightweight and modular package.
 
 Actively maintained with continuous improvements to **pairing stability**, **session management**, and **WhatsApp multi-device compatibility**.
 
@@ -44,7 +44,7 @@ Perfect for:
 
 | Feature | Description |
 |---|---|
-| **Custom Pairing** | Stable pairing with your own codes \u2014 no disconnection issues |
+| **Custom Pairing** | Stable pairing with your own codes 2014 no disconnection issues |
 | **Interactive Messages** | Buttons, menus, native flows, and more |
 | **Session Management** | Automatic, efficient, and long-term stable |
 | **Multi-Device Support** | Fully compatible with WhatsApp's latest multi-device API |
